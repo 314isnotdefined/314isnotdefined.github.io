@@ -23,7 +23,6 @@ The lost and found UH Manoa app will provide a comprehensive way to reunite comm
 
    The landing contains: Welcome message / login button, a Button that says “I lost an item”, a Button that says “I found a potentially lost item”, and a Button that says “I found a lost item”
 
-!(./loggedin.png)
  - **User profile page**
 
    The profile page of the user that is logged in. Shows first name, last name, point total, profile picture, any lost items, any items that they found.
