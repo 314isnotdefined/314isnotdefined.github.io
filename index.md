@@ -23,37 +23,49 @@ The lost and found UH Manoa app will provide a comprehensive way to reunite comm
 
    The landing contains: Welcome message / login button, a Button that says “I lost an item”, a Button that says “I found a potentially lost item”, and a Button that says “I found a lost item”
 
+   <img src = "./loggedin.png" width = "50%"></img>
+
+!(./loggedin.png)
  - **User profile page**
 
    The profile page of the user that is logged in. Shows first name, last name, point total, profile picture, any lost items, any items that they found.
+
+   <img src = "./profile.png" width = "50%"></img>
 
  - **“I lost an item” page / Submit a lost item**
 
    Dropdowns/forms that the user can fill out about a lost item. Some information the user fills out may include what the item is, a description of it, a picture of the item, and when they last found the item. The user can also fill out their contact info if they need to be contacted about the item.
 
+   <img src = "./submitlostitem.png" width = "50%"></img>
+
  - **“Found a potentially lost item” page**
 
    A form for an item that is potentially lost, but isn’t considered “officially” lost according to the website. For example, if Person A loses their UH ID and is not aware that they lost it, they will not submit this lost UH ID on the “I lost an item” page. If Person B happens to randomly come across the UH ID, Person B can submit the form on this page saying they came across the UH ID at (location) during (time of day), so Person A can check this page to see if anyone has found it already, without having to submit info on the “I lost an item” page.
+
+   <img src = "./submitpotentiallylostitem.png" width = "50%"></img>
 
  - **Search “potentially found items” page**
    
    Contains a list of items that were submitted via the “Found a potentially lost item” page. Also sortable alphabetically, by date lost, type of item lost, near a certain building on campus, or keyword. Every item has a button that a user can click if it has been retrieved.
 
+   <img src = "./potentiallylostitems.png" width = "50%"></img>
+
  - **Search found items page**
    
    Contains an archive of list of items that were found, showing the item name, date lost, the date found, and who found it.
+
+   <img src = "./archives.png" width = "50%"></img>
 
  - **Search lost items page**
    
    Contains a list of lost items that were submitted via the “I lost an item” page. sortable alphabetically, by date lost, type of item lost, near a certain building on campus, or keyword. Every item has a button that a user can click if they were found.
 
+      <img src = "./lostitems.png" width = "50%"></img>
+
  - **Points Leaderboard**
    
    Showcase of top 10 users with the most points
 
- - **Admin**
-   
-   Admins will be able to access found and lost item pages with added privledges, allowing them to edit or remove listings.
 
 ## Case Ideas (SD)
 1. A person who has found an item or lost an item will go through the landing page then sign in with their uh username.
