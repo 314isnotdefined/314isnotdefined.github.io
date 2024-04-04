@@ -35,6 +35,10 @@ The lost and found UH Manoa app will provide a comprehensive way to reunite comm
 
    A form for an item that is potentially lost, but isn’t considered “officially” lost according to the website. For example, if Person A loses their UH ID and is not aware that they lost it, they will not submit this lost UH ID on the “I lost an item” page. If Person B happens to randomly come across the UH ID, Person B can submit the form on this page saying they came across the UH ID at (location) during (time of day), so Person A can check this page to see if anyone has found it already, without having to submit info on the “I lost an item” page.
 
+ - **Search “potentially found items” page**
+   
+   Contains a list of items that were submitted via the “Found a potentially lost item” page. Also sortable alphabetically, by date lost, type of item lost, near a certain building on campus, or keyword. Every item has a button that a user can click if it has been retrieved.
+
  - **Search found items page**
    
    Contains an archive of list of items that were found, showing the item name, date lost, the date found, and who found it.
@@ -43,9 +47,13 @@ The lost and found UH Manoa app will provide a comprehensive way to reunite comm
    
    Contains a list of lost items that were submitted via the “I lost an item” page. sortable alphabetically, by date lost, type of item lost, near a certain building on campus, or keyword. Every item has a button that a user can click if they were found.
 
- - **Search “potentially found items” page**
+ - **Points Leaderboard**
    
-   Contains a list of items that were submitted via the “Found a potentially lost item” page. Also sortable alphabetically, by date lost, type of item lost, near a certain building on campus, or keyword. Every item has a button that a user can click if it has been retrieved.
+   Showcase of top 10 users with the most points
+
+ - **Admin**
+   
+   Admins will be able to access found and lost item pages with added privledges, allowing them to edit or remove listings.
 
 ## Case Ideas (SD)
 1. A person who has found an item or lost an item will go through the landing page then sign in with their uh username.
