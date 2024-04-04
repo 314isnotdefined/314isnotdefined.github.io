@@ -1,6 +1,18 @@
 # Lost and Found for UH Manoa
 uh oh, lost_item is not defined!
 
+## About Us
+### [Team Contract](https://docs.google.com/document/d/1k-PfDflZr52WZuJxB2pzgbMgv5pclSdwkexoAjMBo_o/edit?usp=sharing)
+Team Members: Cash Baker, Shayde Tamura, Sam Doan, Darrius Dacquel, Micaiah Cape
+
+### Our Coordination Strategy
+Meeting once or twice a week over discord. Some of our contribution criteria may be timeliness and reliability, general quality of work, level of communication and professionalism. Regarding code conflicts, we will try our best to avoid them, but if we have to, each member should have the right to explain why his code may be better to be pushed into production. Then, we will vote to see which chunk of code is better, and the majority decides.
+
+### Our Mission 
+To create an innovative lost-and-found system for UH Manoa where users can report missing items so that others can find it. We can gamify the system to reward points for those that found an item quickly, and build a leaderboard.
+
+
+
 ## Overview (CB)
 Losing personal belongings is a common occurrence among students in university environments, often resulting in frustration, inconvenience, and in most cases, financial loss. Many students misplace items such as water bottles, lunch boxes, student ID, device chargers, and much more. Traditional methods of retrieving lost items, such as posting flyers or contacting campus security, can be time-consuming and inefficient. Moreover, the lack of a centralized platform for reporting and locating lost items creates barriers to successful recovery. This problem worsens by the fast-paced nature of university life, where students move between classes, study areas, and recreational spaces throughout the day. Without a streamlined and technologically advanced solution, the process of recovering lost items remains cumbersome leading to stress and… sadness.
 
