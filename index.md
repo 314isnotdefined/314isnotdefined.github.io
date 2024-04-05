@@ -1,5 +1,12 @@
 # Item Depot
 
+## Table of contents
+* [About Us](#about-us)
+* [Overview](#overview)
+* [Page Ideas](#page-ideas)
+* [Use Cases](#use-cases)
+* [Beyond The Basics](#beyond-the-basics)
+
 ## About Us
 ### [Team Contract](https://docs.google.com/document/d/1k-PfDflZr52WZuJxB2pzgbMgv5pclSdwkexoAjMBo_o/edit?usp=sharing)
 Team Members: Cash Baker, Shayde Tamura, Sam Doan, Darrius Dacquel, Micaiah Cape
@@ -12,12 +19,12 @@ To create an innovative lost-and-found system for UH Manoa where users can repor
 
 
 
-## Overview (CB)
+## Overview
 Losing personal belongings is a common occurrence among students in university environments, often resulting in frustration, inconvenience, and in most cases, financial loss. Many students misplace items such as water bottles, lunch boxes, student ID, device chargers, and much more. Traditional methods of retrieving lost items, such as posting flyers or contacting campus security, can be time-consuming and inefficient. Moreover, the lack of a centralized platform for reporting and locating lost items creates barriers to successful recovery. This problem worsens by the fast-paced nature of university life, where students move between classes, study areas, and recreational spaces throughout the day. Without a streamlined and technologically advanced solution, the process of recovering lost items remains cumbersome leading to stress and… sadness.
 
 The lost and found UH Manoa app will provide a comprehensive way to reunite community members with their wallets, phones, and any other valuables. There will be a list of lost items and a list of found items. There will be a field indicating where the item is. Someone who has lost an item can also post what they have lost. They could also see the list of lost items. The person who finds an item can disable any incoming messages if it’s indicated that the item is left in designated spaces like the Campus Center and ID Office.
 
-## Page Ideas (MC)
+## Page Ideas
  - **Landing page**
 
    The landing contains: Welcome message / login button, a Button that says “I lost an item”, a Button that says “I found a potentially lost item”, and a Button that says “I found a lost item”
@@ -66,12 +73,12 @@ The lost and found UH Manoa app will provide a comprehensive way to reunite comm
    Showcase of top 10 users with the most points
 
 
-## Case Ideas (SD)
+## Use Cases
 1. A person who has found an item or lost an item will go through the landing page then sign in with their uh username.
 2. A user can either submit a lost item by filling out info, or scroll thru the lost items page and hit a button on that page if they found a particular item. This opens up a space where a user can leave a short message for the person who lost the item (e.g. where they found it, if the item is going to be moved somewhere, etc…)
 3. Alternatively, if a user may have come across an item that seems lost, but not officially on the “lost items” page (talking about finding an item before someone becomes aware that they lost it), the user can also submit a potential lost item, filling out similar info to the lost item.
 
-## Beyond the Basics (DD)
+## Beyond the Basics
 Possible ideas that could be implemented to make our app special in comparison to others.
 
  - **User Ratings:** Implement a simple user rating system where users can rate their experience with other users based on the successful retrieval of lost items. This encourages positive interactions within the community. Or, gamify the platform where users can score points based on “how quickly” they find a lost item.
