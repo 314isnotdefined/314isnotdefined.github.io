@@ -1,6 +1,3 @@
-# Lost and Found for UH Manoa
-uh oh, lost_item is not defined!
-
 ## About Us
 ### [Team Contract](https://docs.google.com/document/d/1k-PfDflZr52WZuJxB2pzgbMgv5pclSdwkexoAjMBo_o/edit?usp=sharing)
 Team Members: Cash Baker, Shayde Tamura, Sam Doan, Darrius Dacquel, Micaiah Cape
