@@ -31,7 +31,7 @@ The lost and found UH Manoa app will provide a comprehensive way to reunite comm
 <hr>
  - **Landing Page**
 
-Will eventually have links to the Lost items page, Found Items page, etc.
+   Will eventually have links to the Lost items page, Found Items page, etc.
 
 <img src = "./img/LandingPage-4-11-24.png" width = "75%">
 <br><br>
