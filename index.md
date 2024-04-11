@@ -31,8 +31,9 @@ The lost and found UH Manoa app will provide a comprehensive way to reunite comm
 <hr>
 insert images here
  - **Landing page**
+
 <img src = "./img/LandingPage-4-11-24.png" width = "75%">
- 
+<br><br>
 
 ## Page Ideas
 <hr>
