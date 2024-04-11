@@ -30,6 +30,9 @@ The lost and found UH Manoa app will provide a comprehensive way to reunite comm
 ## Pictures (Updated 4/11/24)
 <hr>
 insert images here
+ - **Landing page**
+<img src = "./LandingPage-4-11-24.png" width = "75%">
+ 
 
 ## Page Ideas
 <hr>
