@@ -93,7 +93,7 @@ The link to the DigitalOcean application is [edit this.](https://www.youtube.com
 ## Milestones
 <hr>
  - [Milestone 1](https://github.com/orgs/item-depot/projects/1)
- - [Milestone 2 (Edit this!)](https://github.com/orgs/item-depot/projects/2)
+ - [Milestone 2](https://github.com/orgs/item-depot/projects/4/views/1)
    
 ## Use Cases
 <hr>
