@@ -39,27 +39,27 @@ The lost and found UH Manoa app will provide a comprehensive way to reunite comm
 ### [M1 Progress Page](https://github.com/orgs/item-depot/projects/1)
 - **Landing page**
   
-   <img src = "./img/M1-landing.png" width = "75%">
+   <img src = "./img/M1-landing.png" >
    <br><br>
    
 - **Sign In Page**
   
-   <img src = "./img/M1-signin.png" width = "75%">
+   <img src = "./img/M1-signin.png" >
    <br><br>
 
 - **Sign Up Page**
   
-   <img src = "./img/M1-signup.png" width = "75%">
+   <img src = "./img/M1-signup.png" >
    <br><br>
 
 - **Submit a Found Item**
   
-   <img src = "./img/M1-addfounditem.png" width = "75%">
+   <img src = "./img/M1-addfounditem.png" >
    <br><br>
 
 - **Submit a Lost Item**
   
-   <img src = "./img/M1-addlostitem.png" width = "75%">
+   <img src = "./img/M1-addlostitem.png" >
    <br><br>
 
 ## Milestone 2
