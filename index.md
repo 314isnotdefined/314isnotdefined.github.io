@@ -1,17 +1,23 @@
 # Item Depot
 
 ## Table of contents
+* [Deployment](#deployment)
 * [About Us](#about-us)
 * [Overview](#overview)
-* [Pictures (Updated 4/11/24)](#pictures)
+* [Milestone 1](#milestone-1)
+* [Milestone 2](#milestone-2)
 * [Page Ideas](#page-ideas)
-* [Deployment](#deployment)
-* [Milestones](#milestones)
 * [Use Cases](#use-cases)
 * [Beyond The Basics](#beyond-the-basics)
 
+## Deployment
+<hr>
+
+The link to the DigitalOcean application can be found [here](http://165.232.149.224)
+
 ## About Us
 <hr>
+
 ### [Team Contract](https://docs.google.com/document/d/1k-PfDflZr52WZuJxB2pzgbMgv5pclSdwkexoAjMBo_o/edit?usp=sharing)
 Team Members: Cash Baker, Shayde Tamura, Sam Doan, Darrius Dacquel, Micaiah Cape
 
@@ -27,17 +33,43 @@ Losing personal belongings is a common occurrence among students in university e
 
 The lost and found UH Manoa app will provide a comprehensive way to reunite community members with their wallets, phones, and any other valuables. There will be a list of lost items and a list of found items. There will be a field indicating where the item is. Someone who has lost an item can also post what they have lost. They could also see the list of lost items. The person who finds an item can disable any incoming messages if it’s indicated that the item is left in designated spaces like the Campus Center and ID Office.
 
-## Pictures (Updated 4/11/24)
+## Milestone 1
 <hr>
- - **Landing Page**
 
-   Will eventually have links to the Lost items page, Found Items page, etc.
-
-   <img src = "./img/LandingPage-4-11-24.png" width = "75%">
+### [M1 Progress Page](https://github.com/orgs/item-depot/projects/1)
+- **Landing page**
+  
+   <img src = "./img/M1-landing.png" width = "75%">
    <br><br>
+   
+- **Sign In Page**
+  
+   <img src = "./img/M1-signin.png" width = "75%">
+   <br><br>
+
+- **Sign Up Page**
+  
+   <img src = "./img/M1-signup.png" width = "75%">
+   <br><br>
+
+- **Submit a Found Item**
+  
+   <img src = "./img/M1-addfounditem.png" width = "75%">
+   <br><br>
+
+- **Submit a Lost Item**
+  
+   <img src = "./img/M1-addlostitem.png" width = "75%">
+   <br><br>
+
+## Milestone 2
+<hr>
+
+### [M2 Progress Page](https://github.com/orgs/item-depot/projects/4/views/1)
 
 ## Page Ideas
 <hr>
+
  - **Landing page**
 
    The landing contains: Welcome message / login button, a Button that says “I lost an item”, a Button that says “I found a potentially lost item”, and a Button that says “I found a lost item”
@@ -90,15 +122,6 @@ The lost and found UH Manoa app will provide a comprehensive way to reunite comm
  - **Points Leaderboard**
    
    Showcase of top 10 users with the most points
-
-## Deployment
-<hr>
-The link to the DigitalOcean application is [edit this.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-## Milestones
-<hr>
- - [Milestone 1](https://github.com/orgs/item-depot/projects/1)
- - [Milestone 2](https://github.com/orgs/item-depot/projects/4/views/1)
    
 ## Use Cases
 <hr>
