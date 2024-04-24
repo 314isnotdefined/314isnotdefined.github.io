@@ -67,7 +67,9 @@ The lost and found UH Manoa app will provide a comprehensive way to reunite comm
 
 - **User Guide**
 
-- Home Page
+Home Page
+
+<img src = "./img/M1-addlostitem.png" >
 
 - **Developer Guide**
 
