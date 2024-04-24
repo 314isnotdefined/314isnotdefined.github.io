@@ -69,19 +69,19 @@ The lost and found UH Manoa app will provide a comprehensive way to reunite comm
 
 ## User Guide
 
-  Home Page:
+  - **Home Page:**
 
   <img src = "./img/M2Homepage.png" >
 
-  Sign up Page:
+  - **Sign up Page:**
 
   <img src = "./img/M2RegisterPage.png" >
 
-  Log in Page:
+  - **Log in Page:**
 
   <img src = "./img/M2LoginPage.png" >
 
-  Logged in Page:
+  - **Logged in Page:**
 
   <img src = "./img/M2Dropdown1.png" >
 
