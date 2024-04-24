@@ -65,8 +65,19 @@ The lost and found UH Manoa app will provide a comprehensive way to reunite comm
 ## Milestone 2
 <hr>
 
+- **User Guide**
+
+- **Developer Guide**
+
 ### [M2 Progress Page](https://github.com/orgs/item-depot/projects/4/views/1)
 
+## Milestone 3
+<hr>
+
+### [M3 Progress Page](https://github.com/orgs/item-depot/projects/5/views/1)
+
+
+<hr>
 ## Page Ideas
 <hr>
 
