@@ -122,11 +122,6 @@ The lost and found UH Manoa app will provide a comprehensive way to reunite comm
  - **Points Leaderboard**
    
    Showcase of top 10 users with the most points
-
-## Milestone 3
-<hr>
-
-
    
 ## Use Cases
 <hr>
