@@ -4,6 +4,7 @@
 * [Deployment](#deployment)
 * [About Us](#about-us)
 * [Overview](#overview)
+* [Developer Guide](#developer-guide)
 * [Milestone 1](#milestone-1)
 * [Milestone 2](#milestone-2)
 * [Milestone 3](#milestone-3)
@@ -32,6 +33,41 @@ To create an innovative lost-and-found system for UH Manoa where users can repor
 Losing personal belongings is a common occurrence among students in university environments, often resulting in frustration, inconvenience, and in most cases, financial loss. Many students misplace items such as water bottles, lunch boxes, student ID, device chargers, and much more. Traditional methods of retrieving lost items, such as posting flyers or contacting campus security, can be time-consuming and inefficient. Moreover, the lack of a centralized platform for reporting and locating lost items creates barriers to successful recovery. This problem worsens by the fast-paced nature of university life, where students move between classes, study areas, and recreational spaces throughout the day. Without a streamlined and technologically advanced solution, the process of recovering lost items remains cumbersome leading to stress and… sadness.
 
 The lost and found UH Manoa app will provide a comprehensive way to reunite community members with their wallets, phones, and any other valuables. There will be a list of lost items and a list of found items. There will be a field indicating where the item is. Someone who has lost an item can also post what they have lost. They could also see the list of lost items. The person who finds an item can disable any incoming messages if it’s indicated that the item is left in designated spaces like the Campus Center and ID Office.
+
+## Developer Guide
+
+1. cd into the `/app` folder.
+2. Install meteor if needed (see instructions [here](https://docs.meteor.com/install.html)).
+3. Run `meteor npm run start` to start the app. The app should start running in a few minutes, and the output should look similar to this:
+
+```
+> meteor-application-template-react@ start C:\Users\mchlc\projects\lost-and-found\app
+> meteor --no-release-check --exclude-archs web.browser.legacy,web.cordova --settings ../config/settings.development.json
+
+[[[[[ C:\Users\mchlc\projects\lost-and-found\app ]]]]]
+
+=> Started proxy.
+=> Started HMR server.
+=> Started MongoDB.
+I20240423-23:04:44.739(-10)? Creating the default user(s)
+I20240423-23:04:44.849(-10)?   Creating user admin@foo.com.
+I20240423-23:04:44.899(-10)?   Creating user john@foo.com.
+I20240423-23:04:44.993(-10)?   Creating user jane@foo.com.
+I20240423-23:04:45.096(-10)? Creating default data.
+I20240423-23:04:45.096(-10)?   Adding: Basket (john@foo.com)
+I20240423-23:04:45.118(-10)?   Adding: Bicycle (john@foo.com)
+I20240423-23:04:45.120(-10)?   Adding: Banana (admin@foo.com)
+I20240423-23:04:45.123(-10)?   Adding: Boogie Board (admin@foo.com)
+=> Started your app.
+
+=> App running at: http://localhost:3000/
+   Type Control-C twice to stop.
+
+```
+
+4. To run eslint, run `meteor npm run lint`.
+
+**Note: if you're using Git Bash, you would have to type `meteor.bat` instead of `meteor` for every command that you execute.
 
 ## Milestone 1
 <hr>
