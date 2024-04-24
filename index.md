@@ -94,7 +94,28 @@ The lost and found UH Manoa app will provide a comprehensive way to reunite comm
   - **Submit Found Item Page**
 
      <img src = "./img/M2SubmitFoundItem.png" >
+ 
+  - **Found Item Page**
 
+     <img src = "./img/M2FoundItems2.png" >
+
+     <img src = "./img/M2FoundItems1.png" >
+
+     <img src = "./img/M2LostItems3.png" >
+
+  - **Lost Item Page**
+
+     <img src = "./img/M2LostItems1.png" >
+
+     <img src = "./img/M2LostItems2.png" >
+
+- **Archive Page**
+
+     <img src = "./img/M2Archive.png" >
+     
+
+     
+     
 ### Developer Guide
 
 ## Milestone 3
