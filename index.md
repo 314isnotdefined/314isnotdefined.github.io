@@ -141,8 +141,6 @@ I20240423-23:04:45.123(-10)?   Adding: Boogie Board (admin@foo.com)
 
      <img src = "./img/M2LostItems2.png" >
 
-### Developer Guide
-
 ## Milestone 3
 <hr>
 
