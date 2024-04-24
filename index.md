@@ -1,16 +1,16 @@
 # Item Depot
 ![Item Depot](https://github.com/item-depot/item-depot/workflows/item-depot/badge.svg)
 ## Table of contents
-* [Deployment](#deployment)
-* [About Us](#about-us)
-* [Overview](#overview)
-* [Developer Guide](#developer-guide)
-* [Milestone 1](#milestone-1)
-* [Milestone 2](#milestone-2)
-* [Milestone 3](#milestone-3)
-* [Page Ideas](#page-ideas)
-* [Use Cases](#use-cases)
-* [Beyond The Basics](#beyond-the-basics)
+- [Deployment](#deployment)
+- [About Us](#about-us)
+- [Overview](#overview)
+- [Developer Guide](#developer-guide)
+- [Milestone 1](#milestone-1)
+- [Milestone 2](#milestone-2)
+  - [User Guide](#user-guide)
+- [Milestone 3](#milestone-3)
+- [Use Cases](#use-cases)
+- [Beyond The Basics](#beyond-the-basics)
 
 ## Deployment
 <hr>
