@@ -12,7 +12,7 @@
 
 ## Deployment
 <hr>
-The link to the DigitalOcean application can be found [here](http://165.232.149.224)
+The link to the DigitalOcean application can be found [here](https://itemdepot.org)
 
 ## About Us
 <hr>
