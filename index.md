@@ -12,7 +12,7 @@
 
 ## Deployment
 <hr>
-
+![Item Depot](https://github.com/item-depot/item-depot/workflows/item-depot/badge.svg)
 The link to the DigitalOcean application can be found [here](http://165.232.149.224)
 
 ## About Us
