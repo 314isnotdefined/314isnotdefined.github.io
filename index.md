@@ -67,6 +67,8 @@ The lost and found UH Manoa app will provide a comprehensive way to reunite comm
 
 - **User Guide**
 
+- Home Page
+
 - **Developer Guide**
 
 ### [M2 Progress Page](https://github.com/orgs/item-depot/projects/4/views/1)
