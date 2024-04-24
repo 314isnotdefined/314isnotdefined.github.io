@@ -67,7 +67,7 @@ The lost and found UH Manoa app will provide a comprehensive way to reunite comm
 
 ### [M2 Progress Page](https://github.com/orgs/item-depot/projects/4/views/1)
 
-  ## User Guide
+  ### User Guide
 
     - **Home Page:**
 
@@ -87,7 +87,7 @@ The lost and found UH Manoa app will provide a comprehensive way to reunite comm
 
      <img src = "./img/M2Dropdown2.png" >
 
-  ## Developer Guide
+  ### Developer Guide
 
 ## Milestone 3
 <hr>
