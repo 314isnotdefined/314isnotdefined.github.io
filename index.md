@@ -69,33 +69,29 @@ The lost and found UH Manoa app will provide a comprehensive way to reunite comm
 
 ### User Guide
 
-  - **Home Page:**
+  - **Home Page:** From the Home Page you can Log In/Sign Up to then have acess to the Item Depot website
 
      <img src = "./img/M2Homepage.png" >
 
-  - **Sign up Page:**
+  - **Sign up Page:** On the Sign Up Page you can create an account and also have the option to add a profile picture
 
      <img src = "./img/M2ProfilePic.png" >
 
-  - **Log in Page:**
-
-     <img src = "./img/M2LoginPage.png" >
-
-  - **Logged in Page:**
+  - **Logged in Page:** Option of two dropdown menus that link to the Lost item/Found Item Forms and the Item Listings pages
 
      <img src = "./img/M2Dropdown1.png" >
 
      <img src = "./img/M2Dropdown2.png" >
 
-  - **Submit Lost Item Page**
+  - **Submit Lost Item Page** Able to upload an item that you have lost with data such as where it was last seen, category of the item, and contact info
 
      <img src = "./img/M2SubmitLostItem.png" >
 
-  - **Submit Found Item Page**
+  - **Submit Found Item Page** Able to upload an item that you have found with data such as where it was found, category of the item, and contact info
 
      <img src = "./img/M2SubmitFoundItem.png" >
  
-  - **Found Item Page**
+  - **Found Item Page** Page holds all items that have been found with their respective info/pictures. You can also filter found items based on their category.
 
      <img src = "./img/M2FoundItems2.png" >
 
@@ -103,19 +99,12 @@ The lost and found UH Manoa app will provide a comprehensive way to reunite comm
 
      <img src = "./img/M2LostItems3.png" >
 
-  - **Lost Item Page**
+  - **Lost Item Page** Page holds all items that have been lost with their respective info/pictures. You can also filter lost items based on their category.
 
      <img src = "./img/M2LostItems1.png" >
 
      <img src = "./img/M2LostItems2.png" >
 
-- **Archive Page**
-
-     <img src = "./img/M2Archive.png" >
-     
-
-     
-     
 ### Developer Guide
 
 ## Milestone 3
