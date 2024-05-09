@@ -146,6 +146,35 @@ I20240423-23:04:45.123(-10)?   Adding: Boogie Board (admin@foo.com)
 
 ### [M3 Progress Page](https://github.com/orgs/item-depot/projects/5/views/1)
 
+### User Guide
+
+  - **Home Page:** From the Home Page you can Log In/Sign Up to then have acess to the Item Depot website
+
+     <img src = "/.landing.png" >
+
+  - **Sign up Page:** On the Sign Up Page you can create an account and also have the option to add a profile picture
+
+     
+
+  - **Logged in Page:** Option of two dropdown menus that link to the Lost item/Found Item Forms and the Item Listings pages
+
+    
+
+  - **Submit Lost Item Page** Able to upload an item that you have lost with data such as where it was last seen, category of the item, and contact info
+
+    
+
+  - **Submit Found Item Page** Able to upload an item that you have found with data such as where it was found, category of the item, and contact info
+
+    
+ 
+  - **Found Item Page** Page holds all items that have been found with their respective info/pictures. You can also filter found items based on their category.
+
+    
+
+  - **Lost Item Page** Page holds all items that have been lost with their respective info/pictures. You can also filter lost items based on their category.
+
+    
 
 <hr>
 ## Page Ideas
