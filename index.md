@@ -181,23 +181,35 @@ commends the website's simplicity and readability, expressing interest in the le
 
   - **Submit Lost Item Page** Able to upload an item that you have lost with data such as where it was last seen, category of the item, contact info, and picture(s).
 
-    
+    <img src = "./img/submitLost.png" >
 
   - **Submit Found Item Page** Able to upload an item that you have found with data such as where it was found, category of the item, contact info, and picture(s).
-
     
+    <img src = "./img/submitForm.png" >
  
   - **Found Item Page** Page holds all items that have been found with their respective info/picture(s). You can filter found items based on their category. As well as claim said items, and contact person who posted that item.
 
-    
+     <img src = "./img/foundPage.png" >
+     <img src = "./img/foundPage1.png" > 
+     <img src = "./img/foundPage3.png" >
+     <img src = "./img/FoundPage4.png" >
+     <img src = "./img/foundPage5.png" > 
 
   - **Lost Item Page** Page holds all items that have been lost with their respective info/pictures. You can also filter lost items based on their category. As well as claim said items, and contact person who posted that item.
 
+     <img src = "./img/foundPage.png" >
+     <img src = "./img/foundPage1.png" > 
+     <img src = "./img/foundPage3.png" >
+     <img src = "./img/FoundPage4.png" >
+     <img src = "./img/foundPage5.png" >
+    
   - **My Items Page** View all items posted by your account
 
   - **Item Archive** View all past found/lost items that have been resolved
 
   - **Leaderboard Page** View accounts with most found items, users are rewarded points when giving back to the UH community.
+
+  - **View Profile** Able to view other account profiles
 
 <hr>
 ## Page Ideas
