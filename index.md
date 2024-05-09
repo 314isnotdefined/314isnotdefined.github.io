@@ -199,10 +199,10 @@ commends the website's simplicity and readability, expressing interest in the le
   - **Lost Item Page** Page holds all items that have been lost with their respective info/pictures. You can also filter lost items based on their category. As well as claim said items, and contact person who posted that item.
 
      <img src = "./img/Lost1.png" >
-     <img src = "./img/Lost2.png" > 
      <img src = "./img/Lost3.png" >
      <img src = "./img/Lost4.png" >
      <img src = "./img/Lost5.png" >
+     <img src = "./img/Lost2.png" > 
      <img src = "./img/claimLostItems.png" >
 
     
