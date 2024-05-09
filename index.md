@@ -173,7 +173,7 @@ commends the website's simplicity and readability, expressing interest in the le
 
   - **Home Page:** From the Home Page you can Log In/Sign Up to then have acess to the Item Depot website
 
-     <img src = "/.landing.png" >
+     <img src = "landing.png" >
 
   - **Sign up Page:** On the Sign Up Page you can create an account and also have the option to add a profile picture
 
