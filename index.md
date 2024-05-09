@@ -214,7 +214,11 @@ commends the website's simplicity and readability, expressing interest in the le
 
   - **Leaderboard Page** View accounts with most found items, users are rewarded points when giving back to the UH community.
 
+    <img src = "./img/Leaderboard.png" >
+
   - **View Profile** Able to view other account profiles
+
+    <img src = "./img/profile.png" >
 
 <hr>
 ## Page Ideas
