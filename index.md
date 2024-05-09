@@ -171,7 +171,7 @@ commends the website's simplicity and readability, expressing interest in the le
 
 ### User Guide
 
-  - **Home Page:** From the Home Page you can Log In/Sign Up to then have acess to the Item Depot website
+  - **Home Page:** From the Home Page you can Log In/Sign Up to then have acess to the Item Depot website, also have options to navigate Campus Map, as well as direct links to all parts of the website
 
      <img src = "./img/landing.png" >
      <img src = "./img/landing1.png" > 
@@ -179,29 +179,25 @@ commends the website's simplicity and readability, expressing interest in the le
      <img src = "./img/landing4.png" >
      <img src = "./img/landing5.png" > 
 
-  - **Sign up Page:** On the Sign Up Page you can create an account and also have the option to add a profile picture
-
-     
-
-  - **Logged in Page:** Option of two dropdown menus that link to the Lost item/Found Item Forms and the Item Listings pages
+  - **Submit Lost Item Page** Able to upload an item that you have lost with data such as where it was last seen, category of the item, contact info, and picture(s).
 
     
 
-  - **Submit Lost Item Page** Able to upload an item that you have lost with data such as where it was last seen, category of the item, and contact info
-
-    
-
-  - **Submit Found Item Page** Able to upload an item that you have found with data such as where it was found, category of the item, and contact info
+  - **Submit Found Item Page** Able to upload an item that you have found with data such as where it was found, category of the item, contact info, and picture(s).
 
     
  
-  - **Found Item Page** Page holds all items that have been found with their respective info/pictures. You can also filter found items based on their category.
+  - **Found Item Page** Page holds all items that have been found with their respective info/picture(s). You can filter found items based on their category. As well as claim said items, and contact person who posted that item.
 
     
 
-  - **Lost Item Page** Page holds all items that have been lost with their respective info/pictures. You can also filter lost items based on their category.
+  - **Lost Item Page** Page holds all items that have been lost with their respective info/pictures. You can also filter lost items based on their category. As well as claim said items, and contact person who posted that item.
 
-    
+  - **My Items Page** View all items posted by your account
+
+  - **Item Archive** View all past found/lost items that have been resolved
+
+  - **Leaderboard Page** View accounts with most found items, users are rewarded points when giving back to the UH community.
 
 <hr>
 ## Page Ideas
