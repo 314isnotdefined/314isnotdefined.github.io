@@ -207,9 +207,9 @@ commends the website's simplicity and readability, expressing interest in the le
 
     
   - **My Items Page** View all items posted by your account
-
-     <img src = "./img/myitems.png" >
+     
      <img src = "./img/myitems1.png" >
+     <img src = "./img/myitems.png" >
 
   - **Item Archive** View all past found/lost items that have been resolved
 
