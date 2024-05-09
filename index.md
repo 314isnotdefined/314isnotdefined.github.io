@@ -7,8 +7,8 @@
 - [Developer Guide](#developer-guide)
 - [Milestone 1](#milestone-1)
 - [Milestone 2](#milestone-2)
-  - [User Guide](#user-guide)
 - [Milestone 3](#milestone-3)
+  - [User Guide](#user-guide)
 - [Use Cases](#use-cases)
 - [Beyond The Basics](#beyond-the-basics)
 
@@ -69,28 +69,28 @@ I20240423-23:04:45.123(-10)?   Adding: Boogie Board (admin@foo.com)
 
 **Note: if you're using Git Bash, you would have to type `meteor.bat` instead of `meteor` for every command that you execute.
 
-## Community FeedBack
+## Community Feedback
 <hr>
 
 #### Kyle 
 
-finds the website appealing and sees it as a good platform, but raises concerns about false claims. He plans to utilize social media first for item postings, resorting to the website if necessary.
+He finds the website appealing and sees it as a good platform, but raises concerns about false claims. He plans to utilize social media first for item postings, resorting to the website if necessary.
 
 #### Logan 
 
-appreciates the website but notes the small login button. He prefers social media for broader reach but would consider the website if it gains more traction.
+Logan appreciates the website but notes the small login button. He prefers social media for broader reach but would consider the website if it gains more traction.
 
 #### Weston 
 
-praises the website's features and the map function but worries about false claims. He suggests adding a contact support feature and preventing spamming. Weston would utilize the website before resorting to social media for lost items.
+Weston praises the website's features and the map function but worries about false claims. He suggests adding a contact support feature and preventing spamming. Weston would utilize the website before resorting to social media for lost items.
 
 #### Xavi 
 
-finds the website aesthetically pleasing and user-friendly but questions the necessity of a leaderboard. He emphasizes the importance of reaching a broad audience, preferring social media if it achieves wider visibility.
+Xavi finds the website aesthetically pleasing and user-friendly but questions the necessity of a leaderboard. He emphasizes the importance of reaching a broad audience, preferring social media if it achieves wider visibility.
 
 #### Bryson 
 
-commends the website's simplicity and readability, expressing interest in the leaderboard feature. He suggests adding features for email and profile picture changes. Bryson favors using the website over social media for lost items but suggests improving the category filter button's appearance.
+Bryson commends the website's simplicity and readability, expressing interest in the leaderboard feature. He suggests adding features for email and profile picture changes. Bryson favors using the website over social media for lost items but suggests improving the category filter button's appearance.
 
 ## Milestone 1
 <hr>
