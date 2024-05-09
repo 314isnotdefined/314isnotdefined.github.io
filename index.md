@@ -126,8 +126,6 @@ Bryson commends the website's simplicity and readability, expressing interest in
 
 ### [M2 Progress Page](https://github.com/orgs/item-depot/projects/4/views/1)
 
-### User Guide
-
   - **Home Page:** From the Home Page you can Log In/Sign Up to then have acess to the Item Depot website
 
      <img src = "./img/M2Homepage.png" >
