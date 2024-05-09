@@ -205,7 +205,12 @@ commends the website's simplicity and readability, expressing interest in the le
     
   - **My Items Page** View all items posted by your account
 
+     <img src = "./img/myitems.png" >
+     <img src = "./img/myitems1.png" >
+
   - **Item Archive** View all past found/lost items that have been resolved
+
+    <img src = "./img/archive.png" >
 
   - **Leaderboard Page** View accounts with most found items, users are rewarded points when giving back to the UH community.
 
