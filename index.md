@@ -92,6 +92,65 @@ finds the website aesthetically pleasing and user-friendly but questions the nec
 
 commends the website's simplicity and readability, expressing interest in the leaderboard feature. He suggests adding features for email and profile picture changes. Bryson favors using the website over social media for lost items but suggests improving the category filter button's appearance.
 
+## Milestone 3
+<hr>
+
+### [M3 Progress Page](https://github.com/orgs/item-depot/projects/5/views/1)
+
+### User Guide
+
+- **Home Page:** From the Home Page you can Log In/Sign Up to then have acess to the Item Depot website, also have options to navigate Campus Map, as well as direct links to all parts of the website
+
+   <img src = "./img/landing.png" >
+   <img src = "./img/landing1.png" > 
+   <img src = "./img/landing3.png" >
+   <img src = "./img/landing4.png" >
+   <img src = "./img/landing5.png" > 
+
+- **Submit Lost Item Page** Able to upload an item that you have lost with data such as where it was last seen, category of the item, contact info, and picture(s).
+
+  <img src = "./img/submitLost.png" >
+
+- **Submit Found Item Page** Able to upload an item that you have found with data such as where it was found, category of the item, contact info, and picture(s).
+
+  <img src = "./img/submitForm.png" >
+
+- **Found Item Page** Page holds all items that have been found with their respective info/picture(s). You can filter found items based on their category. As well as claim said items, and contact person who posted that item.
+
+   <img src = "./img/foundPage.png" >
+   <img src = "./img/foundPage1.png" > 
+   <img src = "./img/foundPage3.png" >
+   <img src = "./img/FoundPage4.png" >
+   <img src = "./img/foundPage5.png" > 
+   <img src = "./img/claimFoundItems.png" >
+
+- **Lost Item Page** Page holds all items that have been lost with their respective info/pictures. You can also filter lost items based on their category. As well as claim said items, and contact person who posted that item.
+
+   <img src = "./img/Lost1.png" >
+   <img src = "./img/Lost3.png" >
+   <img src = "./img/Lost4.png" >
+   <img src = "./img/Lost5.png" >
+   <img src = "./img/Lost2.png" > 
+   <img src = "./img/claimLostItems.png" >
+
+
+- **My Items Page** View all items posted by your account
+
+   <img src = "./img/myitems1.png" >
+   <img src = "./img/myitems.png" >
+
+- **Item Archive** View all past found/lost items that have been resolved
+
+  <img src = "./img/archive.png" >
+
+- **Leaderboard Page** View accounts with most found items, users are rewarded points when giving back to the UH community.
+
+  <img src = "./img/Leaderboard.png" >
+
+- **View Profile** Able to view other account profiles
+
+  <img src = "./img/profile.png" >
+
 ## Milestone 1
 <hr>
 
@@ -163,65 +222,6 @@ commends the website's simplicity and readability, expressing interest in the le
      <img src = "./img/M2LostItems1.png" >
 
      <img src = "./img/M2LostItems2.png" >
-
-## Milestone 3
-<hr>
-
-### [M3 Progress Page](https://github.com/orgs/item-depot/projects/5/views/1)
-
-### User Guide
-
-  - **Home Page:** From the Home Page you can Log In/Sign Up to then have acess to the Item Depot website, also have options to navigate Campus Map, as well as direct links to all parts of the website
-
-     <img src = "./img/landing.png" >
-     <img src = "./img/landing1.png" > 
-     <img src = "./img/landing3.png" >
-     <img src = "./img/landing4.png" >
-     <img src = "./img/landing5.png" > 
-
-  - **Submit Lost Item Page** Able to upload an item that you have lost with data such as where it was last seen, category of the item, contact info, and picture(s).
-
-    <img src = "./img/submitLost.png" >
-
-  - **Submit Found Item Page** Able to upload an item that you have found with data such as where it was found, category of the item, contact info, and picture(s).
-    
-    <img src = "./img/submitForm.png" >
- 
-  - **Found Item Page** Page holds all items that have been found with their respective info/picture(s). You can filter found items based on their category. As well as claim said items, and contact person who posted that item.
-
-     <img src = "./img/foundPage.png" >
-     <img src = "./img/foundPage1.png" > 
-     <img src = "./img/foundPage3.png" >
-     <img src = "./img/FoundPage4.png" >
-     <img src = "./img/foundPage5.png" > 
-     <img src = "./img/claimFoundItems.png" >
-
-  - **Lost Item Page** Page holds all items that have been lost with their respective info/pictures. You can also filter lost items based on their category. As well as claim said items, and contact person who posted that item.
-
-     <img src = "./img/Lost1.png" >
-     <img src = "./img/Lost3.png" >
-     <img src = "./img/Lost4.png" >
-     <img src = "./img/Lost5.png" >
-     <img src = "./img/Lost2.png" > 
-     <img src = "./img/claimLostItems.png" >
-
-    
-  - **My Items Page** View all items posted by your account
-     
-     <img src = "./img/myitems1.png" >
-     <img src = "./img/myitems.png" >
-
-  - **Item Archive** View all past found/lost items that have been resolved
-
-    <img src = "./img/archive.png" >
-
-  - **Leaderboard Page** View accounts with most found items, users are rewarded points when giving back to the UH community.
-
-    <img src = "./img/Leaderboard.png" >
-
-  - **View Profile** Able to view other account profiles
-
-    <img src = "./img/profile.png" >
 
 <hr>
 ## Page Ideas
