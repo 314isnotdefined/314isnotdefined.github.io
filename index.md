@@ -5,12 +5,12 @@
 - [About Us](#about-us)
 - [Overview](#overview)
 - [Developer Guide](#developer-guide)
+- [User Guide](#user-guide)
+- [Page Mockups](#page-mockups)
 - [Milestone 1](#milestone-1)
 - [Milestone 2](#milestone-2)
 - [Milestone 3](#milestone-3)
-  - [User Guide](#user-guide)
-- [Use Cases](#use-cases)
-- [Beyond The Basics](#beyond-the-basics)
+- [Community Feedback](#community-feedback)
 
 ## Deployment
 <hr>
@@ -69,41 +69,11 @@ I20240423-23:04:45.123(-10)?   Adding: Boogie Board (admin@foo.com)
 
 **Note: if you're using Git Bash, you would have to type `meteor.bat` instead of `meteor` for every command that you execute.
 
-## Community Feedback
-<hr>
-
-#### Kyle 
-
-He finds the website appealing and sees it as a good platform, but raises concerns about false claims. He plans to utilize social media first for item postings, resorting to the website if necessary.
-
-#### Logan 
-
-Logan appreciates the website but notes the small login button. He prefers social media for broader reach but would consider the website if it gains more traction.
-
-#### Weston 
-
-Weston praises the website's features and the map function but worries about false claims. He suggests adding a contact support feature and preventing spamming. Weston would utilize the website before resorting to social media for lost items.
-
-#### Xavi 
-
-Xavi finds the website aesthetically pleasing and user-friendly but questions the necessity of a leaderboard. He emphasizes the importance of reaching a broad audience, preferring social media if it achieves wider visibility.
-
-#### Bryson 
-
-Bryson commends the website's simplicity and readability, expressing interest in the leaderboard feature. He suggests adding features for email and profile picture changes. Bryson favors using the website over social media for lost items but suggests improving the category filter button's appearance.
-
-## Milestone 3
-<hr>
-
-### [M3 Progress Page](https://github.com/orgs/item-depot/projects/5/views/1)
-
-### User Guide
+## User Guide
 
 - **Home Page:** From the Home Page you can Log In/Sign Up to then have acess to the Item Depot website, also have options to navigate Campus Map, as well as direct links to all parts of the website
 
    <img src = "./img/landing.png" >
-   <img src = "./img/landing1.png" > 
-   <img src = "./img/landing3.png" >
    <img src = "./img/landing4.png" >
    <img src = "./img/landing5.png" > 
 
@@ -117,27 +87,18 @@ Bryson commends the website's simplicity and readability, expressing interest in
 
 - **Found Item Page** Page holds all items that have been found with their respective info/picture(s). You can filter found items based on their category. As well as claim said items, and contact person who posted that item.
 
-   <img src = "./img/foundPage.png" >
-   <img src = "./img/foundPage1.png" > 
-   <img src = "./img/foundPage3.png" >
-   <img src = "./img/FoundPage4.png" >
-   <img src = "./img/foundPage5.png" > 
+   <img src = "./img/foundPage.png" > 
    <img src = "./img/claimFoundItems.png" >
 
 - **Lost Item Page** Page holds all items that have been lost with their respective info/pictures. You can also filter lost items based on their category. As well as claim said items, and contact person who posted that item.
 
    <img src = "./img/Lost1.png" >
-   <img src = "./img/Lost3.png" >
-   <img src = "./img/Lost4.png" >
-   <img src = "./img/Lost5.png" >
-   <img src = "./img/Lost2.png" > 
    <img src = "./img/claimLostItems.png" >
 
 
 - **My Items Page** View all items posted by your account
 
-   <img src = "./img/myitems1.png" >
-   <img src = "./img/myitems.png" >
+   <img src = "./img/M3-myitems.png" >
 
 - **Item Archive** View all past found/lost items that have been resolved
 
@@ -150,6 +111,62 @@ Bryson commends the website's simplicity and readability, expressing interest in
 - **View Profile** Able to view other account profiles
 
   <img src = "./img/profile.png" >
+
+## Page Mockups
+<hr>
+
+ - **Landing page**
+
+   The landing contains: Welcome message / login button, a Button that says “I lost an item”, a Button that says “I found a potentially lost item”, and a Button that says “I found a lost item”
+
+   <img src = "./loggedin.png" width = "75%">
+   <br><br>
+
+ - **User profile page**
+
+   The profile page of the user that is logged in. Shows first name, last name, point total, profile picture, any lost items, any items that they found.
+
+   <img src = "./profile.png" width = "75%">
+   <br><br>
+
+ - **“I lost an item” page / Submit a lost item**
+
+   Dropdowns/forms that the user can fill out about a lost item. Some information the user fills out may include what the item is, a description of it, a picture of the item, and when they last found the item. The user can also fill out their contact info if they need to be contacted about the item.
+
+   <img src = "./submitlostitem.png" width = "75%">
+   <br><br>
+
+ - **“Found a potentially lost item” page**
+
+   A form for an item that is potentially lost, but isn’t considered “officially” lost according to the website. For example, if Person A loses their UH ID and is not aware that they lost it, they will not submit this lost UH ID on the “I lost an item” page. If Person B happens to randomly come across the UH ID, Person B can submit the form on this page saying they came across the UH ID at (location) during (time of day), so Person A can check this page to see if anyone has found it already, without having to submit info on the “I lost an item” page.
+
+   <img src = "./submitpotentiallylostitem.png" width = "75%">
+   <br><br>
+
+ - **Search “potentially found items” page**
+   
+   Contains a list of items that were submitted via the “Found a potentially lost item” page. Also sortable alphabetically, by date lost, type of item lost, near a certain building on campus, or keyword. Every item has a button that a user can click if it has been retrieved.
+
+   <img src = "./potentiallylostitems.png" width = "75%">
+   <br><br>
+
+ - **Search found items page**
+   
+   Contains an archive of list of items that were found, showing the item name, date lost, the date found, and who found it.
+
+   <img src = "./archives.png" width = "75%">
+   <br><br>
+
+ - **Search lost items page**
+   
+   Contains a list of lost items that were submitted via the “I lost an item” page. sortable alphabetically, by date lost, type of item lost, near a certain building on campus, or keyword. Every item has a button that a user can click if they were found.
+
+      <img src = "./lostitems.png" width = "75%">
+      <br><br>
+
+ - **Points Leaderboard**
+   
+   Showcase of top 10 users with the most points
 
 ## Milestone 1
 <hr>
@@ -222,71 +239,32 @@ Bryson commends the website's simplicity and readability, expressing interest in
      <img src = "./img/M2LostItems2.png" >
 
 <hr>
-## Page Ideas
+
+## Milestone 3
 <hr>
 
- - **Landing page**
+### [M3 Progress Page](https://github.com/orgs/item-depot/projects/5/views/1)
 
-   The landing contains: Welcome message / login button, a Button that says “I lost an item”, a Button that says “I found a potentially lost item”, and a Button that says “I found a lost item”
-
-   <img src = "./loggedin.png" width = "75%">
-   <br><br>
-
- - **User profile page**
-
-   The profile page of the user that is logged in. Shows first name, last name, point total, profile picture, any lost items, any items that they found.
-
-   <img src = "./profile.png" width = "75%">
-   <br><br>
-
- - **“I lost an item” page / Submit a lost item**
-
-   Dropdowns/forms that the user can fill out about a lost item. Some information the user fills out may include what the item is, a description of it, a picture of the item, and when they last found the item. The user can also fill out their contact info if they need to be contacted about the item.
-
-   <img src = "./submitlostitem.png" width = "75%">
-   <br><br>
-
- - **“Found a potentially lost item” page**
-
-   A form for an item that is potentially lost, but isn’t considered “officially” lost according to the website. For example, if Person A loses their UH ID and is not aware that they lost it, they will not submit this lost UH ID on the “I lost an item” page. If Person B happens to randomly come across the UH ID, Person B can submit the form on this page saying they came across the UH ID at (location) during (time of day), so Person A can check this page to see if anyone has found it already, without having to submit info on the “I lost an item” page.
-
-   <img src = "./submitpotentiallylostitem.png" width = "75%">
-   <br><br>
-
- - **Search “potentially found items” page**
-   
-   Contains a list of items that were submitted via the “Found a potentially lost item” page. Also sortable alphabetically, by date lost, type of item lost, near a certain building on campus, or keyword. Every item has a button that a user can click if it has been retrieved.
-
-   <img src = "./potentiallylostitems.png" width = "75%">
-   <br><br>
-
- - **Search found items page**
-   
-   Contains an archive of list of items that were found, showing the item name, date lost, the date found, and who found it.
-
-   <img src = "./archives.png" width = "75%">
-   <br><br>
-
- - **Search lost items page**
-   
-   Contains a list of lost items that were submitted via the “I lost an item” page. sortable alphabetically, by date lost, type of item lost, near a certain building on campus, or keyword. Every item has a button that a user can click if they were found.
-
-      <img src = "./lostitems.png" width = "75%">
-      <br><br>
-
- - **Points Leaderboard**
-   
-   Showcase of top 10 users with the most points
-   
-## Use Cases
+## Community Feedback
 <hr>
-1. A person who has found an item or lost an item will go through the landing page then sign in with their uh username.
-2. A user can either submit a lost item by filling out info, or scroll thru the lost items page and hit a button on that page if they found a particular item. This opens up a space where a user can leave a short message for the person who lost the item (e.g. where they found it, if the item is going to be moved somewhere, etc…)
-3. Alternatively, if a user may have come across an item that seems lost, but not officially on the “lost items” page (talking about finding an item before someone becomes aware that they lost it), the user can also submit a potential lost item, filling out similar info to the lost item.
 
-## Beyond the Basics
-<hr>
-Possible ideas that could be implemented to make our app special in comparison to others.
+#### Kyle 
 
- - **User Ratings:** Implement a simple user rating system where users can rate their experience with other users based on the successful retrieval of lost items. This encourages positive interactions within the community. Or, gamify the platform where users can score points based on “how quickly” they find a lost item.
- - **Quick Search Filters:** Offer quick search filters (e.g., by item type, location, date) to help users narrow down their search results and find relevant listings more efficiently.
+He finds the website appealing and sees it as a good platform, but raises concerns about false claims. He plans to utilize social media first for item postings, resorting to the website if necessary.
+
+#### Logan 
+
+Logan appreciates the website but notes the small login button. He prefers social media for broader reach but would consider the website if it gains more traction.
+
+#### Weston 
+
+Weston praises the website's features and the map function but worries about false claims. He suggests adding a contact support feature and preventing spamming. Weston would utilize the website before resorting to social media for lost items.
+
+#### Xavi 
+
+Xavi finds the website aesthetically pleasing and user-friendly but questions the necessity of a leaderboard. He emphasizes the importance of reaching a broad audience, preferring social media if it achieves wider visibility.
+
+#### Bryson 
+
+Bryson commends the website's simplicity and readability, expressing interest in the leaderboard feature. He suggests adding features for email and profile picture changes. Bryson favors using the website over social media for lost items but suggests improving the category filter button's appearance.
+   
