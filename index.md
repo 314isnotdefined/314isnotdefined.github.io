@@ -1,5 +1,5 @@
 # Item Depot
-![Item Depot](https://github.com/item-depot/item-depot/workflows/item-depot/badge.svg)
+[![ci-badge](https://github.com/item-depot/item-depot/workflows/item-depot/badge.svg)](https://github.com/item-depot/item-depot/actions/workflows/item-depot)
 ## Table of contents
 - [Deployment](#deployment)
 - [About Us](#about-us)
